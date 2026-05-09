@@ -156,3 +156,4 @@ alias claude-mem='/home/nprime/.bun/bin/bun "/home/nprime/.claude/plugins/cache/
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
 alias obsidian-gui='~/Applications/Obsidian.AppImage --no-sandbox &'
+export OPENAI_API_KEY=ollama_secret_key_api
